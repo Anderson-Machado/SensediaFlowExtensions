@@ -1,8 +1,14 @@
 {
   "name": "sensediaflowapiextensions",
-  "displayName": "SensediaFlowAPIExtensions",
+  "displayName": "Sensedia Flow API",
   "description": "Extensão para buscar o fluxo de recusos das apis contendo os scripts de interceptors em formato de arquivo js em extrutura de pasta.",
   "version": "0.0.1",
+  "publisher": "sensedia-flow-api",
+  "icon": "sensedia.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anderson-Machado/SensediaFlowExtensions.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },

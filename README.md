@@ -5,7 +5,7 @@ Extensão para trazer todos os intercptors em JS.
 ## Features
 Esta extensão, é capaz de gerar pastas e arquivos com base nas API´s existente dentro do Gateway da Sensedia. Basta precionar a tecla de atalho Ctrl+p, selecionar "Generate API Folders" e informar a Url base, XSRF-TOKEN e Sensedia-Auth, conforme o exemplo abaixo:
 
-> ![GIF animado](https://github.com/Anderson-Machado/SensediaFlowExtensions/blob/main/exemplo.gif)
+> ![GIF animado](/exemplo.gif)
 
 
 ## Requirements
