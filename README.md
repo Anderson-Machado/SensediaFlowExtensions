@@ -1,34 +1,27 @@
-# sensediaflowapiextensions README
+# Sensedia Flow API extensions 
 
 Extensão para trazer todos os intercptors em JS.
 
 ## Features
+Esta extensão, é capaz de gerar pastas e arquivos com base nas API´s existente dentro do Gateway da Sensedia. Basta precionar a tecla de atalho Ctrl+p, selecionar "Generate API Folders" e informar a Url base, XSRF-TOKEN e Sensedia-Auth, conforme o exemplo abaixo:
 
+> ![GIF animado](https://github.com/Anderson-Machado/SensediaFlowExtensions/blob/main/exemplo.gif)
 
-For example if there is an image subfolder under your extension project workspace:
-
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
-Acesso exclusivo na Sensedia
+Acesso exclusivo na Sensedia.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
-
 Versão inicial
 
+## Contribuição
 
-## Following extension guidelines
+Caso deseje contribuir, entre em contato através do email ou GitHub.
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+* [GitHub](https://github.com/Anderson-Machado/SensediaFlowExtensions)
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-## For more information
-**Enjoy!**
+## Para mais informações:
+anderson.silva@sensedia.com
+**Aproveite!**
